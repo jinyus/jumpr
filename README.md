@@ -1,5 +1,7 @@
 # Jumping
 
+crystal clone of : [https://github.com/familyfriendlymikey/jumping](https://github.com/familyfriendlymikey/jumping)
+
 Assign custom aliases to directories and quickly jump to them
 from anywhere.
 
