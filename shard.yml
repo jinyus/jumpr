@@ -1,0 +1,13 @@
+name: jumpr
+version: 0.1.0
+
+authors:
+  - jinyus
+
+targets:
+  jumpr:
+    main: src/jumpr.cr
+
+crystal: 1.6.2
+
+license: MIT
